@@ -217,7 +217,7 @@ hr {
   border-bottom: solid 1px rgba(210, 215, 217, 0.75);
   margin: 2em 0; }
   hr.major {
-    margin: 2em 0; }
+    margin: 3em 0; }
 
 .align-left {
   text-align: left; }
@@ -1000,7 +1000,7 @@ header p {
 header.major > :last-child {
   border-bottom: solid 3px #f56a6a;
   display: inline-block;
-  margin: 0 0 2em 0;
+  margin: 0 0 1em 0;
   padding: 0 0.75em 0.5em 0; }
 
 header.main > :last-child {
